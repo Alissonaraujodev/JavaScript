@@ -1,5 +1,5 @@
-var contador = 15
+var contador = 0
 do{
     console.log(`Passo ${contador}`)
-    contador--
-}while (contador >= 0)
+    contador++
+}while (contador >= 15)
