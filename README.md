@@ -1,4 +1,4 @@
-#Curso de Lógica de Programação em JavaScript - Curso em Vídeo
+# Curso de Lógica de Programação em JavaScript - Curso em Vídeo
 
 Este repositório foi criado para organizar os projetos e exercícios desenvolvidos durante o curso de Lógica de Programação em JavaScript oferecido pelo Curso em Vídeo, com o professor Gustavo Guanabara. O curso me capacita a entender e usar a lógica de programação para criar páginas web interativas.
 
